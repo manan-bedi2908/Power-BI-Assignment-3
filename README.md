@@ -8,5 +8,5 @@
      − Using the JOINING DATE column extract the Year and no. of days for that month .
      − Create a visual of your choice and show the how much salary has been paid to each state and which state has lowest payout.
      
-## Chandigarh has the lowest payout and Maharashtra highest
+## Chandigarh and Assam has the lowest payout (0.6 Million) and Maharashtra highest (13.9 Million) 
 
